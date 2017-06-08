@@ -33,6 +33,7 @@ ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, s
 2. <a href="https://arxiv.org/abs/1705.10359">Neural Embeddings of Graphs in Hyperbolic Space</a>
 3. <a href="https://arxiv.org/abs/1705.04304">A Deep Reinforced Model for Abstractive Summarization</a>
 4. <a href="https://arxiv.org/abs/1705.10929">Adversarial Generation of Natural Language</a>
+5. <a href="https://arxiv.org/abs/1706.01427">A simple neural network module for relational reasoning</a>
 
 ## 2. Generative Models
 
