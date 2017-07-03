@@ -2,7 +2,7 @@
 
 파이토치 스터디 
 
-NLP와 Generative Model에 관심을 두고 공부! (강화학습도 !!)
+관심있는 모든 것(NLP, Generative Model, RL,...)을 더욱 잘 이해하기 위해 코드로 구현해보기
 클래식한 모델부터 논문, 튜토리얼, 강의, 블로그를 읽고 이해한 것을 바탕으로 
 구현해보기 +_+ 
 
@@ -25,7 +25,8 @@ ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, s
 5. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/deepnlp/05_LSTM_Batch.ipynb">LSTM batch learning</a>
 6. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/deepnlp/06_Seq2Seq_vanilla.ipynb">Vanilla Sequence2Sequence (Encoder-Decoder)</a>
 7. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/deepnlp/07_Seq2Seq_Attention.ipynb">Sequence2Sequence with Attention</a>
-
+8. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/deepnlp/08_Relational_Network_for_bAbI(Not yet).ipynb">Relational Network for bAbI task(in progress)</a>
+9. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/deepnlp/09_Transformer.ipynb">Transformer(Attention is all you need)</a>
 
 ### 읽고 구현해보고 싶은 논문 리스트
 
@@ -42,3 +43,7 @@ ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, s
 3. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/generative_model/03.Variational_Autoencoder.ipynb">Variational Auto-Encoder</a>
 3-1. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/generative_model/03_1_Appendix_Entropy%26KL-Divergence.ipynb">Appendix1: Entropy and KL-divergence</a>
 4. <a href="https://github.com/DSKSD/PT_dsksd/blob/master/generative_model/04.Variational_Recurrent_Autoencoder.ipynb">Variational Reccurent Auto-Encoder</a>
+
+## 3. Reinforcement Learning
+
+## 4. Evolutionary Algorithms
